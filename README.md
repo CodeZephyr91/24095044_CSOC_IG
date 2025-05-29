@@ -1,2 +1,2 @@
 # 24095044_CSOC_IG
-CSOC'25-IG(Assignment-1)
+CSOC'25-IG(Assignment-2)
