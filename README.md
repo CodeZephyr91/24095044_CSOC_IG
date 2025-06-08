@@ -1,2 +1,2 @@
 # 24095044_CSOC_IG
-CSOC'25-IG(Assignment-2)
+This Repo contains all CSOC'25 IG assignments(Except for Assignment-1 which was submitted via a separate repo)
